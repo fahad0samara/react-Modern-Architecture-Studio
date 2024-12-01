@@ -5,6 +5,11 @@
 
 ARCHIFORM is a modern architecture studio website built with React, TypeScript, and Tailwind CSS. It showcases architectural projects, services, and company information through an elegant and responsive design.
 
+![screencapture-localhost-5173-2024-12-01-15_57_48](https://github.com/user-attachments/assets/24e335b1-8b1b-46a3-8ca8-10e0751c4938)
+
+
+
+
 ## Features
 
 - 🏗️ **Project Showcase** - Interactive portfolio of architectural projects
